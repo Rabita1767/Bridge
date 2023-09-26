@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author Rabbit
+ *
+ */
+module Bridge {
+}
